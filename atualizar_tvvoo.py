@@ -23,6 +23,27 @@ def clean(value):
     return str(value or '').replace('\r', ' ').replace('\n', ' ').replace('"', "'")
 
 
+def media_available(url):
+    """Confirma manifesto e inicio de um segmento; nao testa descodificacao."""
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    try:
+        for level in range(3):
+            with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=6) as response:
+                data = response.read(4096 if level else 131072)
+                base = response.url
+            if data.startswith(b'#EXTM3U'):
+                lines = data.decode('utf-8').splitlines()
+                paths = [line.strip() for line in lines if line.strip() and not line.startswith('#')]
+                if not paths:
+                    return False
+                url = urllib.parse.urljoin(base, paths[0])
+            else:
+                return len(data) >= 188 and (data[0] == 0x47 or b'ftyp' in data[:32] or b'styp' in data[:32])
+    except Exception:
+        return False
+    return False
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--paises', default='pt', help='Codigos separados por virgulas, ou all')
@@ -43,7 +64,11 @@ def main():
                     if '/live/manifest.m3u8?' in s.get('url', '')))
         if not urls:
             raise ValueError('Sem link com renovacao de sessao')
-        return urls
+        checked = [(url, media_available(url)) for url in urls]
+        # Mantem fontes indisponiveis como alternativas, mas coloca fontes
+        # que entregam dados primeiro. Falhas podem ser transitorias.
+        checked.sort(key=lambda item: not item[1])
+        return checked
 
     for country in countries:
         if country not in catalogs:
@@ -64,10 +89,11 @@ def main():
                 except Exception as exc:
                     failures.append(country + ': ' + meta['name'] + ': ' + str(exc))
             for meta in metas:
-                for index, url in enumerate(results.get(meta['id'], []), 1):
+                for index, (url, available) in enumerate(results.get(meta['id'], []), 1):
                     name = clean(meta['name']) + (f' (alternativa {index})' if index > 1 else '')
                     logo = clean(meta.get('logo') or meta.get('poster'))
-                    entries.extend([f'#EXTINF:-1 tvg-logo="{logo}" group-title="{clean(country.upper())}",{name}', url])
+                    group = country.upper() if available else country.upper() + ' - Sem resposta no teste'
+                    entries.extend([f'#EXTINF:-1 tvg-logo="{logo}" group-title="{clean(group)}",{name}', url])
     if failures:
         report = Path(args.saida).with_suffix('.erros.txt')
         report.write_text('\n'.join(failures), encoding='utf-8')
