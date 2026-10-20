@@ -1,0 +1,580 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" group-title="PT",EUROSPORT 1
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F25495184398c97e1fbefd8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" group-title="PT",EUROSPORT 1 (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F36546124874bb339930031
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" group-title="PT",EUROSPORT 1 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16311580101fad1a8ee2ef
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-2-fr.png" group-title="PT",EUROSPORT 2
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3495357111684554a016fd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-2-fr.png" group-title="PT",EUROSPORT 2 (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26584383597fb214caeed9
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=EUROSPORT%202%20(BACKUP)" group-title="PT",EUROSPORT 2 (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5210413649af808380459
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DAZN%201" group-title="PT",DAZN 1
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F288268168b686746a7a16
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DAZN%202" group-title="PT",DAZN 2
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1452205400454b0a22c6ec
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DAZN%203" group-title="PT",DAZN 3
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1810812136b0581e0c39ab
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DAZN%204" group-title="PT",DAZN 4
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F36541606320e0b5747f04e
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DAZN%205" group-title="PT",DAZN 5
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3836623176848a0884f3da
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/24-kitchen-pt.png" group-title="PT",24 KITCHEN
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F217677844105372e6f7b94
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/24-kitchen-pt.png" group-title="PT",24 KITCHEN HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5749782816432d260b9f8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/a-bola-tv-pt.png" group-title="PT",A BOLA TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F186535245741ba973dc10b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/a-bola-tv-pt.png" group-title="PT",A BOLA TV (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F476765689e8fc3379448d
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=A%26E" group-title="PT",A&E
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1726372340804c94793126
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=AFRO%20MUSIC" group-title="PT",AFRO MUSIC
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1069493045e9eb6e93e3b3
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=AFRO%20MUSIC%20CHANNEL" group-title="PT",AFRO MUSIC CHANNEL
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1972183649a5ef6fe03f42
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ALMA%20LUSA" group-title="PT",ALMA LUSA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3972324290e61b379317ce
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/amc-pt.png" group-title="PT",AMC
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2341819341f129f357dbdb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-break-es.png" group-title="PT",AMC BREAK
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1676049953943aabe65b98
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-crime-es.png" group-title="PT",AMC CRIME
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F20771957888051379ac4aa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/amc-pt.png" group-title="PT",AMC HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F332290414873aceb4cbae0
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=AR%20TV" group-title="PT",AR TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F314397486055299c6864ee
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ARTV" group-title="PT",ARTV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F38071720908efeff4f518
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-pt.png" group-title="PT",AXN
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F538838100d0590731cf6d
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=AXN%20BLACK" group-title="PT",AXN BLACK
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3967750091e83f077e6272
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-pt.png" group-title="PT",AXN HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3143462075dfa9e885f3b2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-movies-pt.png" group-title="PT",AXN MOVIES
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F47475930279ac9dcfd9c1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-movies-pt.png" group-title="PT",AXN MOVIES HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2370723370bb823495ff98
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-white-pt.png" group-title="PT",AXN WHITE
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F47702122617bfc7ea0a24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-white-pt.png" group-title="PT",AXN WHITE HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F328698532772b83e8ca83a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/baby-tv-ar.png" group-title="PT",BABY TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F111671916207b28b428915
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/baby-tv-ar.png" group-title="PT",BABY TV (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3404489721c363c3c29596
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=BENFICA%20TV" group-title="PT",BENFICA TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F153111452837f69b803b96
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=BENFICA%20TV%20(BACKUP)" group-title="PT",BENFICA TV (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1059923452c630d2b84864
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/biggs-pt.png" group-title="PT",BIGGS
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2693440346ecd2a273bc8f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/blaze-it.png" group-title="PT",BLAZE
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3679644515d54e70649645
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=BLOOMBERG" group-title="PT",BLOOMBERG
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2362437748786656dad85d
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=BOM%20SOM%20CHANNEL" group-title="PT",BOM SOM CHANNEL
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2249546173445fd342e31f
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=BTV%20(BENFICA)" group-title="PT",BTV (BENFICA)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2434383426cedb9a7f8182
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/btv-pt.png" group-title="PT",BTV HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F419434034c29c7a3c7b07
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CA%C3%87AVISION" group-title="PT",CAÇAVISION
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F36824777946514747ec085
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/caccia-pesca-it.png" group-title="PT",CACCIA E PESCA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1577389543c8c8b87f129e
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CAMPO%20PEQUENO" group-title="PT",CAMPO PEQUENO
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F231845708e53d794de05b
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CAMPO%20PEQUENO%20TV" group-title="PT",CAMPO PEQUENO TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F10003427559aab5ef6a4f5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-1-pl.png" group-title="PT",CANAL 11
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F199161253abd385871b30
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-1-pl.png" group-title="PT",CANAL 11 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F18359357199e074371cdbd
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CANAL%2011%20HD%20(BACKUP)" group-title="PT",CANAL 11 HD (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29721594504acc680e4676
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CANAL%20180" group-title="PT",CANAL 180
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1874759730c1b2b900ded6
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CANAL%20NOS" group-title="PT",CANAL NOS
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3173711892ac6e9567d430
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/canal-panda-pt.png" group-title="PT",CANAL PANDA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4002241315e5ee10f4b753
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/canal-panda-pt.png" group-title="PT",CANAL PANDA (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26958390437906a5f4ba97
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/canal-q-pt.png" group-title="PT",CANAL Q
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27670925185f9621be33b0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/canal-q-pt.png" group-title="PT",CANAL Q (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F7474915574b41e4e4484c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cancao-nova-tv-br.png" group-title="PT",CANCAO NOVA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F171172057153c3db88f5ce
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png" group-title="PT",CARTOON NETWORK
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2359297640ef36451eb08a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png" group-title="PT",CARTOON NETWORK (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2672740913728a31b548ec
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cartoonito-br.png" group-title="PT",CARTOONITO
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F13322793075995b979f6ce
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CASA%20%26%20PESCA" group-title="PT",CASA & PESCA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F700421686a2540175cb7b
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CASA%20E%20COZINHA" group-title="PT",CASA E COZINHA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3354497993e05327d67195
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/caza-y-pesca-es.png" group-title="PT",CAZA Y PESCA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F39888517753ee87fb99de4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/cbs-reality-pt.png" group-title="PT",CBS REALITY
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29381825197d677bb12d4f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/cbs-reality-pt.png" group-title="PT",CBS REALITY (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3775102231a007e414d4e5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/cine-mundo-pt.png" group-title="PT",CINE MUNDO
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F25960094757e6d362c5d5f
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CINEMUNDO" group-title="PT",CINEMUNDO
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F425440450378b6ca4cf7d3
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CM%20TV" group-title="PT",CM TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F384601660517fa3552a29f
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CM%20TV" group-title="PT",CM TV (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F805844173b05e1a81e31d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="PT",CNBC
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F23037322826fbc08c3e18
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/cnn-portugal-pt.png" group-title="PT",CNN PORTUGAL
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F218268277581f3e112713e
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=COMBATE" group-title="PT",COMBATE
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F37792491890935fbfaed47
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/crime-district-fr.png" group-title="PT",CRIME DISTRICT
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F358847146604310b1ced84
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CRIME%20INVISTIGATION" group-title="PT",CRIME INVISTIGATION
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11378614892a679bcbf28d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/crime-and-investigation-au.png" group-title="PT",CRIME+ INVESTIGATION
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3279514677021b74e7f37
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-channel-ar.png" group-title="PT",DISCOVERY CHANNEL HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F78318791484a7ab86cea1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-world-hd-ar.png" group-title="PT",DISCOVERY WORLD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F57570103360bc951258fe
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png" group-title="PT",DISNEY CHANNEL
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1668808212073ea3ac1de7
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DISNEY%20JUNIOR" group-title="PT",DISNEY JUNIOR
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F7711415421c705f6ba5dd
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DISNEY%2B%20PIXAR" group-title="PT",DISNEY+ PIXAR
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1616464273e04bb68a8a1c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/dizi-hr.png" group-title="PT",DIZI CHANNEL
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F331839172552bc64d9a58d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/dog-tv-us.png" group-title="PT",DOG TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1585099730502eeb0b85ab
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/e-tv-za.png" group-title="PT",E!
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2635838576f894565a8fd2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/e-entertainment-au.png" group-title="PT",E! ENTERTAINMENT
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2910919734123033b51494
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-1-pt.png" group-title="PT",ELEVEN SPORT 1
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1814987647cc86abe9688f
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORT%201%20(BACKUP)" group-title="PT",ELEVEN SPORT 1 (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1631199830356865b44530
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-2-pt.png" group-title="PT",ELEVEN SPORT 2
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F73079031913541c41cf1a
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORT%202%20(BACKUP)" group-title="PT",ELEVEN SPORT 2 (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4925049739296d9b75be8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-3-pt.png" group-title="PT",ELEVEN SPORT 3
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F384749599d2900186aa89
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-4-pt.png" group-title="PT",ELEVEN SPORT 4 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F35239756417ae61956b571
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-5-pt.png" group-title="PT",ELEVEN SPORT 5 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F51390701566ef1d64c07c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-6-pt.png" group-title="PT",ELEVEN SPORT 6
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3725483887f74435380df7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-1-pt.png" group-title="PT",ELEVEN SPORTS 1 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F32945729021dd84aa61c3c
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORTS%201%20HD%20(BACKUP)" group-title="PT",ELEVEN SPORTS 1 HD (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F12558212427c4b9c8120c4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-2-pt.png" group-title="PT",ELEVEN SPORTS 2 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1255159429e820777fa5a3
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORTS%202%20HD%20(BACKUP)" group-title="PT",ELEVEN SPORTS 2 HD (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4236298865a5d87f7682f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-3-pt.png" group-title="PT",ELEVEN SPORTS 3 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F225615618785a9ae922486
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORTS%203%20HD%20(BACKUP)" group-title="PT",ELEVEN SPORTS 3 HD (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26659306211bf4bc81536a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-4-pt.png" group-title="PT",ELEVEN SPORTS 4 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F23613437464af854e58e92
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORTS%204%20HD%20(BACKUP)" group-title="PT",ELEVEN SPORTS 4 HD (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3195314998672077c5c950
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-5-pt.png" group-title="PT",ELEVEN SPORTS 5 FHD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F19859372356f23a09d89b7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-5-pt.png" group-title="PT",ELEVEN SPORTS 5 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1075134364cad87b8f672e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-6-pt.png" group-title="PT",ELEVEN SPORTS 6 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F34662135034440faed2387
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORTS%206%20HD%20(BACKUP)" group-title="PT",ELEVEN SPORTS 6 HD (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F178311678567a225e74dff
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=EURONEWS" group-title="PT",EURONEWS
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2842227117aaf7e860f895
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FASHIONTV" group-title="PT",FASHIONTV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3688799089b348adf8648b
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FATIMA%20TV" group-title="PT",FATIMA TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F239550906605f2db26d23b
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FIGHT%20NETWORK" group-title="PT",FIGHT NETWORK
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F98251882763ac2c3cad9f
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FIREMAN%20SAM" group-title="PT",FIREMAN SAM
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F25684012369ed1e8844c34
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/food-network-ar.png" group-title="PT",FOOD NETWORK
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1960865357bce2f9940e1e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/fox-comedy-pt.png" group-title="PT",FOX COMEDY HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F9927413899bfcad187b88
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/fox-crime-pt.png" group-title="PT",FOX CRIME HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1009109875825780d41942
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/fox-hr.png" group-title="PT",FOX HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F737435862bedf0cf54964
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/fox-life-pt.png" group-title="PT",FOX LIFE HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2739768128827479a32fe6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/fox-movies-pt.png" group-title="PT",FOX MOVIES HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3499798327eb1f80e520b3
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FUEL%20TV" group-title="PT",FUEL TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F235154858874b373b5a141
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FUEL%20TV" group-title="PT",FUEL TV (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F71983983b6b873948166
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FUEL%20TV%20(BACKUP)" group-title="PT",FUEL TV (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3953435677c84746d1470f
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=HBO%202" group-title="PT",HBO 2
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3934395114e54c2b884854
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=HBO%20PORTUGAL" group-title="PT",HBO PORTUGAL
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3701688c92f60856b71
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hgtv-ar.png" group-title="PT",HGTV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F310002268589f0484d477b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/historia-ca.png" group-title="PT",HISTORIA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1471702249632c76c543a9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/historia-ca.png" group-title="PT",HISTORIA (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F52553831439c933d566ef
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=HOLLYWOOD" group-title="PT",HOLLYWOOD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F7080840411e9f3bd3b681
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/investigation-discovery-ca.png" group-title="PT",INVESTIGATION DISCOVERY
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1181792777fdf3f172d007
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=JIM%20JAM" group-title="PT",JIM JAM
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F39730572654e7aa88778b3
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=JIMJAM" group-title="PT",JIMJAM
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3380920371ff40bb686181
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KANUCA%20TV" group-title="PT",KANUCA TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1894635407715cfe3d36ca
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KOMBAT%20SPORT" group-title="PT",KOMBAT SPORT
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2141709191e37e48fc700d
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KOMBAT%20SPORT" group-title="PT",KOMBAT SPORT (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2018844923006d33075e6e
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KOMBAT%20SPORT%20(BACKUP)" group-title="PT",KOMBAT SPORT (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F704666836ccdd94704f0
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KURIAKOS%20KIDS" group-title="PT",KURIAKOS KIDS
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4169387839c41e776cba20
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KURIAKOS%20TV" group-title="PT",KURIAKOS TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2640469163e5649419dbaf
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=LOCAL%20VIS%C3%83O" group-title="PT",LOCAL VISÃO
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4001042963fc5a476493a8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/mcm-pop-fr.png" group-title="PT",MCM POP
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F30050545840104134c119e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/mcm-pop-fr.png" group-title="PT",MCM POP (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F998167995dd2effac82cc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/mcm-top-fr.png" group-title="PT",MCM TOP
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3476156840c41d4a351d0a
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MEZZO" group-title="PT",MEZZO
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F885911308e84f0918467a
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MEZZO%20LIVE" group-title="PT",MEZZO LIVE
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3602344519640e3a7e1fb2
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MOTO%20GP%20HD" group-title="PT",MOTO GP HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F80762089dbc192a58b99
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/motorvision-plus-fr.png" group-title="PT",MOTORVISION
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F313881517425559308db87
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MOTORVISION%20(BACKUP)" group-title="PT",MOTORVISION (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4623959472d66be6b0e03
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/motorvision-plus-fr.png" group-title="PT",MOTORVISION TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F174225106c9fcdffa2143
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/mtv-00s-ar.png" group-title="PT",MTV 00S
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3875216039f1b6da7fcf49
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MTV%20PORTUGAL" group-title="PT",MTV PORTUGAL
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F35557164194cdcc75fb42f
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MTV%20PORTUGAL" group-title="PT",MTV PORTUGAL (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F35586821756dbad9fb0617
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NAT%20GEO" group-title="PT",NAT GEO
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1196955352dcf13e1e10c5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nat-geo-wild-de.png" group-title="PT",NAT GEO WILD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F278568941d0da5f3a5da0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nat-geo-wild-de.png" group-title="PT",NAT GEO WILD HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F269328975361837c5e0705
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/national-geographic-ar.png" group-title="PT",NATIONAL GEOGRAPHIC
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F503347396572e08f52c01
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NAUTICAL%20CHANNEL" group-title="PT",NAUTICAL CHANNEL
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2648942672c8ddb95d7d12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/nba-tv-pt.png" group-title="PT",NBA TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F21218462198127b9768c37
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NEWS%20NOW" group-title="PT",NEWS NOW
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F129116940e976a8d36511
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nick-jr-ar.png" group-title="PT",NICK JR.
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F32859584599ce78df64a7d
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NICK%20JUNIOR" group-title="PT",NICK JUNIOR
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11659668124a40dee2e709
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nickelodeon-ar.png" group-title="PT",NICKELODEON
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F398241518529a84217dd1f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nickelodeon-ar.png" group-title="PT",NICKELODEON (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27428585456434d2693931
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NOS%20STUDIOS" group-title="PT",NOS STUDIOS
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F39657016396db00c2d9e81
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NOS%20STUDIOS" group-title="PT",NOS STUDIOS (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27261441035e4b72b92904
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/odisseia-pt.png" group-title="PT",ODISSEIA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F892615341748ec31a1ac1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/odisseia-pt.png" group-title="PT",ODISSEIA (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F21117855506273662f1163
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=OPTO" group-title="PT",OPTO
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2106247479c559e08ff599
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=PANDA%20BIGGS" group-title="PT",PANDA BIGGS
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2958694111abda80bf5ed0
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=PANDA%20KIDS" group-title="PT",PANDA KIDS
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F21712439520d828fed18d2
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=PATRULHA%20PATA" group-title="PT",PATRULHA PATA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F165571168486077e97f67f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/pfc-pt.png" group-title="PT",PFC
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F24479454750b28e79d3d28
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/pfc-pt.png" group-title="PT",PFC (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5533338767b17fda54777
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=PFC%20(BACKUP)" group-title="PT",PFC (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3753231864e1d268b250ce
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/porto-canal-pt.png" group-title="PT",PORTO CANAL
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F186208766320a16e3dd9d2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/porto-canal-pt.png" group-title="PT",PORTO CANAL (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5515073437274878805c3
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=PORTO%20CANAL%20(BACKUP)" group-title="PT",PORTO CANAL (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28643200289b1a684d1e2c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="PT",RECORD TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F12117782260a191a43e8a0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="PT",RTP 1
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3213786206b9a8d9279d0a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="PT",RTP 1 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F13944010473df831073dad
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-2-pt.png" group-title="PT",RTP 2
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F756792350076cff41c35a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-2-pt.png" group-title="PT",RTP 2 (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F416376590230300f8c5498
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-3-pt.png" group-title="PT",RTP 3
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F276534702ca211de21bd3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-3-pt.png" group-title="PT",RTP 3 (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3310235454b9bd61572914
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-acores-pt.png" group-title="PT",RTP ACORES
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1961433088214264a3895f
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=RTP%20A%C3%87ORES" group-title="PT",RTP AÇORES
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F110090793857edcd8d4bc1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-africa-pt.png" group-title="PT",RTP AFRICA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F18853781741812579f3f42
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=RTP%20%C3%81FRICA" group-title="PT",RTP ÁFRICA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3689682834a7c808634ed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-madeira-pt.png" group-title="PT",RTP MADEIRA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3637826537a2622bc4bf5b
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=RTP%20MEM%C3%93RIA" group-title="PT",RTP MEMÓRIA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F359484756863389f637100
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=RTP%20MEM%C3%93RIA" group-title="PT",RTP MEMÓRIA (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3518481964e584e2ecdd93
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=RTP%20NOT%C3%8DCIAS" group-title="PT",RTP NOTÍCIAS
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1422411879787483e9b7f6
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SANTIAGO%20DOS%20MARES" group-title="PT",SANTIAGO DOS MARES
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4016740092f8e340296af7
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SAUDE%2B" group-title="PT",SAUDE+
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F36808522734e8673ee22df
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-pt.png" group-title="PT",SIC
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3762658364bbe49f476ccc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-caras-pt.png" group-title="PT",SIC CARAS
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F349548203924edaa45dbfa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-caras-pt.png" group-title="PT",SIC CARAS (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27365893830064965c878f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-pt.png" group-title="PT",SIC HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3099098765ec02550cde6f
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SIC%20INTERNACIONAL" group-title="PT",SIC INTERNACIONAL
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1987468951e730fb730cc3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-k-pt.png" group-title="PT",SIC K
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F21334938345a29bf0a33ab
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-k-pt.png" group-title="PT",SIC K (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2854171354d2861314431b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-mulher-pt.png" group-title="PT",SIC MULHER
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F35722502329cdc2317c8dd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-mulher-pt.png" group-title="PT",SIC MULHER (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5900866544de3cdf55f90
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png" group-title="PT",SIC NOTICIAS
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F41129700899740bd35f1f2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png" group-title="PT",SIC NOTICIAS HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F213263083005d8ef8a565c
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SIC%20NOVELAS" group-title="PT",SIC NOVELAS
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F191136795907dde3d75d1a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-radical-pt.png" group-title="PT",SIC RADICAL
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F114997012299821ebfef73
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-radical-pt.png" group-title="PT",SIC RADICAL (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1788642980ad9a247245d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sports-tv-tr.png" group-title="PT",SPORT TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F225964673789db91eaf34a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sports-tv-tr.png" group-title="PT",SPORT TV +
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3862034077c5920f2e95e0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sports-tv-tr.png" group-title="PT",SPORT TV + HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1822489426520c241aa6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-1-pt.png" group-title="PT",SPORT TV 1
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F10004270647c8377fd8313
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-1-pt.png" group-title="PT",SPORT TV 1 (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F34289402226976c68b9b9e
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%201%20(BACKUP)" group-title="PT",SPORT TV 1 (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F14386289065b08d49bfc3e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-1-pt.png" group-title="PT",SPORT TV 1 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3966581533812bd3be6382
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%201%20HD%20(BACKUP)" group-title="PT",SPORT TV 1 HD (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F211283081051caac7287c4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-2-pt.png" group-title="PT",SPORT TV 2
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2080453864766690bc1444
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-2-pt.png" group-title="PT",SPORT TV 2 (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F234468235087a9bf800929
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%202%20(BACKUP)" group-title="PT",SPORT TV 2 (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F702454257ca89335a3714
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-2-pt.png" group-title="PT",SPORT TV 2 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F165899391805b3c6eebe1e
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%202%20HD%20(BACKUP)" group-title="PT",SPORT TV 2 HD (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F779445982b1306e3d0cd6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-3-pt.png" group-title="PT",SPORT TV 3
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1096883544ce7e759e123d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-3-pt.png" group-title="PT",SPORT TV 3 (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3064015582353b13df33ce
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%203%20(BACKUP)" group-title="PT",SPORT TV 3 (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3033626759881077a52574
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-3-pt.png" group-title="PT",SPORT TV 3 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29239696323c3367d22195
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%203%20HD%20(BACKUP)" group-title="PT",SPORT TV 3 HD (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F284922204548cb511d23b0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-4-pt.png" group-title="PT",SPORT TV 4
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F40811728087a4ade7a88ca
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-4-pt.png" group-title="PT",SPORT TV 4 (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F7562619003d91faa3445
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%204%20(BACKUP)" group-title="PT",SPORT TV 4 (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3508326983f5dc4f61f1cb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-4-pt.png" group-title="PT",SPORT TV 4 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27607176894a7491650639
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-5-pt.png" group-title="PT",SPORT TV 5
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F34583288246e0a0ec6fc0f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-5-pt.png" group-title="PT",SPORT TV 5 (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F9711041268146231bc411
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%205%20(BACKUP)" group-title="PT",SPORT TV 5 (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F12763267051751832c99d9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-5-pt.png" group-title="PT",SPORT TV 5 HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1747400167d0a3c0f6bef2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-6-pt.png" group-title="PT",SPORT TV 6
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2118231470742cd8dad95f
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%207" group-title="PT",SPORT TV 7
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F112627203002ec33f64535
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%20NBA" group-title="PT",SPORT TV NBA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1718019314692f3e5da768
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%20NBA%20HD" group-title="PT",SPORT TV NBA HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3476204840bf5976a29b6f
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%20NBA%20HD%20(BACKUP)" group-title="PT",SPORT TV NBA HD (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2751720311e2687ee6aabf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sporting-tv-hd-pt.png" group-title="PT",SPORTING TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F17190817580bb536b17325
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sporting-tv-hd-pt.png" group-title="PT",SPORTING TV (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F676691326908891eb462f
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORTING%20TV%20(BACKUP)" group-title="PT",SPORTING TV (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F324754431106bc8943cf0e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/star-channel-pt.png" group-title="PT",STAR CHANNEL
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F473732861a37cc8a8aa9a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/star-comedy-pt.png" group-title="PT",STAR COMEDY
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F12827816780db2bd5f3f4f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/star-crime-pt.png" group-title="PT",STAR CRIME
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2422531998791bd1474314
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/star-life-pt.png" group-title="PT",STAR LIFE
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4075632687044396f1dc6a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/star-movies-pt.png" group-title="PT",STAR MOVIES
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8913585440f7b064a2665
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=STINGRAY%20CMUSIC" group-title="PT",STINGRAY CMUSIC
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F32661409240a45c61b9309
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=STINGRAY%20ICONCERTS" group-title="PT",STINGRAY ICONCERTS
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16729529834b4e60743f87
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=STINGRAY%20LOUD" group-title="PT",STINGRAY LOUD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16052425729d9f04de9dee
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/stingray-retro-ca.png" group-title="PT",STINGRAY RETRO
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F216763212240408f426082
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=STV%20NOTICIAS" group-title="PT",STV NOTICIAS
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29419965871aaa0eb5e8d8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/syfy-ar.png" group-title="PT",SYFY
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F386545214879c36205f79e
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SYFY%20PORTUGAL" group-title="PT",SYFY PORTUGAL
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1633515070747da24b8d0a
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TCV%20INTERNACIONAL" group-title="PT",TCV INTERNACIONAL
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F169953235399a868965ac0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tlc-ar.png" group-title="PT",TLC
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3292309622df6ab2322cc6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tlc-ar.png" group-title="PT",TLC (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1966027521cfea3ee092b5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/toros-tv-pt.png" group-title="PT",TOROS
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16196976980919a19eb333
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/toros-tv-pt.png" group-title="PT",TOROS TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1243809524ae367b5e76b4
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TOROS%20TV%20(BACKUP)" group-title="PT",TOROS TV (BACKUP)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F784576657f26a88c3fce5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trace-urban-fr.png" group-title="PT",TRACE URBAN HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3694338679a57f5a8fb54c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/travel-au.png" group-title="PT",TRAVEL CHANNEL
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F42820236599047952b5dee
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/travel-au.png" group-title="PT",TRAVEL CHANNEL HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2247442701b34d1b42dae
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/travelxp-hu.png" group-title="PT",TRAVELXP
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F276929612498a9a231b627
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="PT",TV GLOBO
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3068526841d78e5d3c16ff
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TV%20GLOBO%20NOW" group-title="PT",TV GLOBO NOW
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F20994889228f6a91cba570
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TV%20MANA%201" group-title="PT",TV MANA 1
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3430368704f7c6e5cbb75a
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TV%20MANA%202" group-title="PT",TV MANA 2
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F23461394085907696b0a67
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="PT",TV RECORD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22917764163ef8589ac5db
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-action-pt.png" group-title="PT",TVCINE ACTION
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3790970324f06b4796f2fe
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-action-pt.png" group-title="PT",TVCINE ACTION HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F7936318033db25a8648aa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-edition-pt.png" group-title="PT",TVCINE EDITION
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1761868334d8c26523c126
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-edition-pt.png" group-title="PT",TVCINE EDITION HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2599146036b6364834e9f6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-emotion-pt.png" group-title="PT",TVCINE EMOTION
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F385958923062108a82180c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-emotion-pt.png" group-title="PT",TVCINE EMOTION HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F406450924438bf8ed91739
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-top-pt.png" group-title="PT",TVCINE TOP
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11677026147f6051732333
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-top-pt.png" group-title="PT",TVCINE TOP HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F40561975950bd1a2ae20e
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVCINE%2B" group-title="PT",TVCINE+
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F811339888f3641e12cbf3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvi-pt.png" group-title="PT",TVI
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26477881250b3e50ff9612
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvi-24-pt.png" group-title="PT",TVI 24
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3954588404fc402b631e52
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20FIC" group-title="PT",TVI FIC
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26595946992b1d68be116
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20FIC%C3%87%C3%83O" group-title="PT",TVI FICÇÃO
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F956832485d2ff166a0119
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvi-pt.png" group-title="PT",TVI HD
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3101553820b7b6d69e54fc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvi-reality-pt.png" group-title="PT",TVI REALITY
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2164586665059c27b25b07
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvi-reality-pt.png" group-title="PT",TVI REALITY (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F34754147299c2a1920fed4
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20REALITY%20CAMERA%201" group-title="PT",TVI REALITY CAMERA 1
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1966368132f51ea29d1db8
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20REALITY%20CAMERA%202" group-title="PT",TVI REALITY CAMERA 2
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F84856814875963cd1182c
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20REALITY%20CAMERA%203" group-title="PT",TVI REALITY CAMERA 3
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26766307608dfe9f52f33
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20REALITY%20CAMERA%204" group-title="PT",TVI REALITY CAMERA 4
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3184847604d0246eb2464c
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20REALITY%20MOSAICO" group-title="PT",TVI REALITY MOSAICO
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F19099316900d6bd25a97ae
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=UNIFE%20TV" group-title="PT",UNIFE TV
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F24469876007438fe206b2f
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=V%2B%20TVI" group-title="PT",V+ TVI
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F299880045b1202285e41a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/vh1-uk.png" group-title="PT",VH1
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F126040701457784edc4553
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/vh1-uk.png" group-title="PT",VH1 (alternativa 2)
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F419770049748e1f519ea7f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-sports-us.png" group-title="PT",W-SPORT
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F286924362279aa9b13e1a9
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ZAP%20VIVA" group-title="PT",ZAP VIVA
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F415072193227aadff55a06
+
