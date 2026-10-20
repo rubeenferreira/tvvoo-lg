@@ -1,0 +1,32 @@
+name: Atualizar lista IPTV
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 5 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: atualizar-playlist
+  cancel-in-progress: false
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Gerar playlist
+        run: python atualizar_tvvoo.py --paises pt --saida tvvoo.m3u
+      - name: Guardar resultado
+        run: |
+          date -u +'%Y-%m-%dT%H:%M:%SZ' > atualizado.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add tvvoo.m3u atualizado.txt
+          if ! git diff --cached --quiet; then
+            git commit -m 'Atualizar playlist de Portugal'
+            git push
+          fi
+
