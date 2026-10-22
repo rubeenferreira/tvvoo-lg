@@ -1,62 +1,62 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="01 - Generalistas e regionais",RTP 1 [HD]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F13944010473df831073dad
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="01 - Generalistas e regionais",RTP 1 [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="01 - Generalistas e regionais",RTP 1
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3213786206b9a8d9279d0a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",RTP 1 [HD; alternativa 2]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F13944010473df831073dad
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-2-pt.png" group-title="01 - Generalistas e regionais",RTP 2
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F756792350076cff41c35a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-2-pt.png" group-title="01 - Generalistas e regionais",RTP 2 [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-2-pt.png" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",RTP 2 [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F416376590230300f8c5498
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-pt.png" group-title="01 - Generalistas e regionais",SIC [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-pt.png" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",SIC [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3099098765ec02550cde6f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-pt.png" group-title="01 - Generalistas e regionais",SIC [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-pt.png" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",SIC [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3762658364bbe49f476ccc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvi-pt.png" group-title="01 - Generalistas e regionais",TVI [HD]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3101553820b7b6d69e54fc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvi-pt.png" group-title="01 - Generalistas e regionais",TVI [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvi-pt.png" group-title="01 - Generalistas e regionais",TVI
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26477881250b3e50ff9612
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=LOCAL%20VIS%C3%83O" group-title="01 - Generalistas e regionais",Local Visao
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvi-pt.png" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",TVI [HD; alternativa 2]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3101553820b7b6d69e54fc
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=LOCAL%20VIS%C3%83O" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",Local Visao
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4001042963fc5a476493a8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/porto-canal-pt.png" group-title="01 - Generalistas e regionais",Porto Canal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/porto-canal-pt.png" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",Porto Canal
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F186208766320a16e3dd9d2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/porto-canal-pt.png" group-title="01 - Generalistas e regionais",Porto Canal [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/porto-canal-pt.png" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",Porto Canal [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5515073437274878805c3
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=PORTO%20CANAL%20(BACKUP)" group-title="01 - Generalistas e regionais",Porto Canal [alternativa 3; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=PORTO%20CANAL%20(BACKUP)" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",Porto Canal [alternativa 3; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28643200289b1a684d1e2c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-acores-pt.png" group-title="01 - Generalistas e regionais",RTP Açores
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-acores-pt.png" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",RTP Açores
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1961433088214264a3895f
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=RTP%20A%C3%87ORES" group-title="01 - Generalistas e regionais",RTP Açores [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=RTP%20A%C3%87ORES" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",RTP Açores [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F110090793857edcd8d4bc1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-africa-pt.png" group-title="01 - Generalistas e regionais",RTP África
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-africa-pt.png" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",RTP África
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F18853781741812579f3f42
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=RTP%20%C3%81FRICA" group-title="01 - Generalistas e regionais",RTP África [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=RTP%20%C3%81FRICA" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",RTP África [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3689682834a7c808634ed
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-madeira-pt.png" group-title="01 - Generalistas e regionais",RTP Madeira
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-madeira-pt.png" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",RTP Madeira
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3637826537a2622bc4bf5b
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=RTP%20MEM%C3%93RIA" group-title="01 - Generalistas e regionais",RTP Memória
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=RTP%20MEM%C3%93RIA" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",RTP Memória
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F359484756863389f637100
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=RTP%20MEM%C3%93RIA" group-title="01 - Generalistas e regionais",RTP Memória [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=RTP%20MEM%C3%93RIA" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",RTP Memória [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3518481964e584e2ecdd93
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SIC%20INTERNACIONAL" group-title="01 - Generalistas e regionais",SIC Internacional
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SIC%20INTERNACIONAL" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",SIC Internacional
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1987468951e730fb730cc3
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=STV%20NOTICIAS" group-title="01 - Generalistas e regionais",Stv Noticias
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=STV%20NOTICIAS" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",Stv Noticias
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29419965871aaa0eb5e8d8
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TCV%20INTERNACIONAL" group-title="01 - Generalistas e regionais",TCV Internacional
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TCV%20INTERNACIONAL" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",TCV Internacional
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F169953235399a868965ac0
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=V%2B%20TVI" group-title="01 - Generalistas e regionais",V+ TVI
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=V%2B%20TVI" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",V+ TVI
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F299880045b1202285e41a
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ZAP%20VIVA" group-title="01 - Generalistas e regionais",Zap Viva
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ZAP%20VIVA" tvg-source-status="unavailable" group-title="01 - Generalistas e regionais",Zap Viva
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F415072193227aadff55a06
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-3-pt.png" group-title="02 - Notícias",RTP 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-3-pt.png" tvg-source-status="unavailable" group-title="02 - Notícias",RTP 3
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F276534702ca211de21bd3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-3-pt.png" group-title="02 - Notícias",RTP 3 [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-3-pt.png" tvg-source-status="unavailable" group-title="02 - Notícias",RTP 3 [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3310235454b9bd61572914
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=RTP%20NOT%C3%8DCIAS" group-title="02 - Notícias",RTP Notícias
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=RTP%20NOT%C3%8DCIAS" tvg-source-status="unavailable" group-title="02 - Notícias",RTP Notícias
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1422411879787483e9b7f6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png" group-title="02 - Notícias",SIC Notícias [HD]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F213263083005d8ef8a565c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png" group-title="02 - Notícias",SIC Notícias [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png" group-title="02 - Notícias",SIC Notícias
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F41129700899740bd35f1f2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png" tvg-source-status="unavailable" group-title="02 - Notícias",SIC Notícias [HD; alternativa 2]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F213263083005d8ef8a565c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/cnn-portugal-pt.png" group-title="02 - Notícias",CNN Portugal
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F218268277581f3e112713e
 #EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CM%20TV" group-title="02 - Notícias",CMTV
@@ -65,515 +65,511 @@ https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F805844173b05e1a81e31d
 #EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NEWS%20NOW" group-title="02 - Notícias",News Now
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F129116940e976a8d36511
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=AR%20TV" group-title="02 - Notícias",ARTV
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F314397486055299c6864ee
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ARTV" group-title="02 - Notícias",ARTV [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ARTV" tvg-source-status="unavailable" group-title="02 - Notícias",ARTV
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F38071720908efeff4f518
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=BLOOMBERG" group-title="02 - Notícias",Bloomberg
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=BLOOMBERG" tvg-source-status="unavailable" group-title="02 - Notícias",Bloomberg
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2362437748786656dad85d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="02 - Notícias",Cnbc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" tvg-source-status="unavailable" group-title="02 - Notícias",Cnbc
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F23037322826fbc08c3e18
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=EURONEWS" group-title="02 - Notícias",Euronews
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=EURONEWS" tvg-source-status="unavailable" group-title="02 - Notícias",Euronews
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2842227117aaf7e860f895
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvi-24-pt.png" group-title="02 - Notícias",TVI 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvi-24-pt.png" tvg-source-status="unavailable" group-title="02 - Notícias",TVI 24
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3954588404fc402b631e52
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-1-pt.png" group-title="03 - Desporto",Sport TV 1 [HD]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3966581533812bd3be6382
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sports-tv-tr.png" group-title="03 - Desporto",Sport TV 1 [alternativa 2]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F225964673789db91eaf34a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-1-pt.png" group-title="03 - Desporto",Sport TV 1 [alternativa 3]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F10004270647c8377fd8313
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-1-pt.png" group-title="03 - Desporto",Sport TV 1 [alternativa 4]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-1-pt.png" group-title="03 - Desporto",Sport TV 1
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F34289402226976c68b9b9e
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%201%20HD%20(BACKUP)" group-title="03 - Desporto",Sport TV 1 [HD; alternativa 5; backup]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-1-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 1 [HD; alternativa 2]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3966581533812bd3be6382
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sports-tv-tr.png" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 1 [alternativa 3]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F225964673789db91eaf34a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-1-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 1 [alternativa 4]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F10004270647c8377fd8313
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%201%20HD%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 1 [HD; alternativa 5; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F211283081051caac7287c4
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%201%20(BACKUP)" group-title="03 - Desporto",Sport TV 1 [alternativa 6; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%201%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 1 [alternativa 6; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F14386289065b08d49bfc3e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-2-pt.png" group-title="03 - Desporto",Sport TV 2 [HD]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F165899391805b3c6eebe1e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-2-pt.png" group-title="03 - Desporto",Sport TV 2
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2080453864766690bc1444
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-2-pt.png" group-title="03 - Desporto",Sport TV 2 [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F234468235087a9bf800929
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%202%20HD%20(BACKUP)" group-title="03 - Desporto",Sport TV 2 [HD; alternativa 3; backup]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-2-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 2 [HD; alternativa 3]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F165899391805b3c6eebe1e
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%202%20HD%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 2 [HD; alternativa 4; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F779445982b1306e3d0cd6
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%202%20(BACKUP)" group-title="03 - Desporto",Sport TV 2 [alternativa 4; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%202%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 2 [alternativa 5; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F702454257ca89335a3714
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-2-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 2 [alternativa 5]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2080453864766690bc1444
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-3-pt.png" group-title="03 - Desporto",Sport TV 3 [HD]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29239696323c3367d22195
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-3-pt.png" group-title="03 - Desporto",Sport TV 3 [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-3-pt.png" group-title="03 - Desporto",Sport TV 3
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1096883544ce7e759e123d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-3-pt.png" group-title="03 - Desporto",Sport TV 3 [alternativa 3]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-3-pt.png" group-title="03 - Desporto",Sport TV 3 [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3064015582353b13df33ce
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%203%20HD%20(BACKUP)" group-title="03 - Desporto",Sport TV 3 [HD; alternativa 4; backup]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-3-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 3 [HD; alternativa 3]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29239696323c3367d22195
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%203%20HD%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 3 [HD; alternativa 4; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F284922204548cb511d23b0
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%203%20(BACKUP)" group-title="03 - Desporto",Sport TV 3 [alternativa 5; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%203%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 3 [alternativa 5; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3033626759881077a52574
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-4-pt.png" group-title="03 - Desporto",Sport TV 4 [HD]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27607176894a7491650639
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-4-pt.png" group-title="03 - Desporto",Sport TV 4 [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-4-pt.png" group-title="03 - Desporto",Sport TV 4
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F40811728087a4ade7a88ca
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-4-pt.png" group-title="03 - Desporto",Sport TV 4 [alternativa 3]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-4-pt.png" group-title="03 - Desporto",Sport TV 4 [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F7562619003d91faa3445
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%204%20(BACKUP)" group-title="03 - Desporto",Sport TV 4 [alternativa 4; backup]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-4-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 4 [HD; alternativa 3]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27607176894a7491650639
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%204%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 4 [alternativa 4; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3508326983f5dc4f61f1cb
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-5-pt.png" group-title="03 - Desporto",Sport TV 5 [HD]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1747400167d0a3c0f6bef2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-5-pt.png" group-title="03 - Desporto",Sport TV 5 [alternativa 2]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F34583288246e0a0ec6fc0f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-5-pt.png" group-title="03 - Desporto",Sport TV 5 [alternativa 3]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-5-pt.png" group-title="03 - Desporto",Sport TV 5
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F9711041268146231bc411
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%205%20(BACKUP)" group-title="03 - Desporto",Sport TV 5 [alternativa 4; backup]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-5-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 5 [HD; alternativa 2]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1747400167d0a3c0f6bef2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-5-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 5 [alternativa 3]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F34583288246e0a0ec6fc0f
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%205%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 5 [alternativa 4; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F12763267051751832c99d9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-6-pt.png" group-title="03 - Desporto",Sport TV 6
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2118231470742cd8dad95f
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%207" group-title="03 - Desporto",Sport TV 7
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%207" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV 7
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F112627203002ec33f64535
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sports-tv-tr.png" group-title="03 - Desporto",Sport TV + [HD]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1822489426520c241aa6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sports-tv-tr.png" group-title="03 - Desporto",Sport TV + [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sports-tv-tr.png" group-title="03 - Desporto",Sport TV +
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3862034077c5920f2e95e0
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%20NBA%20HD" group-title="03 - Desporto",Sport TV NBA [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sports-tv-tr.png" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV + [HD; alternativa 2]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1822489426520c241aa6
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%20NBA%20HD" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV NBA [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3476204840bf5976a29b6f
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%20NBA" group-title="03 - Desporto",Sport TV NBA [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%20NBA" tvg-source-status="unavailable" group-title="03 - Desporto",Sport TV NBA [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1718019314692f3e5da768
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORT%20TV%20NBA%20HD%20(BACKUP)" group-title="03 - Desporto",Sport TV NBA [HD; alternativa 3; backup]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2751720311e2687ee6aabf
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-1-pt.png" group-title="03 - Desporto",DAZN 1 [HD]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F32945729021dd84aa61c3c
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DAZN%201" group-title="03 - Desporto",DAZN 1 [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DAZN%201" group-title="03 - Desporto",DAZN 1
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F288268168b686746a7a16
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-1-pt.png" group-title="03 - Desporto",DAZN 1 [alternativa 3]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-1-pt.png" group-title="03 - Desporto",DAZN 1 [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1814987647cc86abe9688f
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORTS%201%20HD%20(BACKUP)" group-title="03 - Desporto",DAZN 1 [HD; alternativa 4; backup]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-1-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 1 [HD; alternativa 3]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F32945729021dd84aa61c3c
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORTS%201%20HD%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 1 [HD; alternativa 4; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F12558212427c4b9c8120c4
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORT%201%20(BACKUP)" group-title="03 - Desporto",DAZN 1 [alternativa 5; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORT%201%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 1 [alternativa 5; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1631199830356865b44530
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-2-pt.png" group-title="03 - Desporto",DAZN 2 [HD]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1255159429e820777fa5a3
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DAZN%202" group-title="03 - Desporto",DAZN 2 [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DAZN%202" group-title="03 - Desporto",DAZN 2
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1452205400454b0a22c6ec
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-2-pt.png" group-title="03 - Desporto",DAZN 2 [alternativa 3]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-2-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 2 [HD; alternativa 2]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1255159429e820777fa5a3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-2-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 2 [alternativa 3]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F73079031913541c41cf1a
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORTS%202%20HD%20(BACKUP)" group-title="03 - Desporto",DAZN 2 [HD; alternativa 4; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORTS%202%20HD%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 2 [HD; alternativa 4; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4236298865a5d87f7682f
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORT%202%20(BACKUP)" group-title="03 - Desporto",DAZN 2 [alternativa 5; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORT%202%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 2 [alternativa 5; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4925049739296d9b75be8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-3-pt.png" group-title="03 - Desporto",DAZN 3 [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F225615618785a9ae922486
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DAZN%203" group-title="03 - Desporto",DAZN 3 [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DAZN%203" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 3 [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1810812136b0581e0c39ab
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-3-pt.png" group-title="03 - Desporto",DAZN 3 [alternativa 3]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-3-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 3 [alternativa 3]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F384749599d2900186aa89
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORTS%203%20HD%20(BACKUP)" group-title="03 - Desporto",DAZN 3 [HD; alternativa 4; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORTS%203%20HD%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 3 [HD; alternativa 4; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26659306211bf4bc81536a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-4-pt.png" group-title="03 - Desporto",DAZN 4 [HD]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F35239756417ae61956b571
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-4-pt.png" group-title="03 - Desporto",DAZN 4 [HD; alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F23613437464af854e58e92
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DAZN%204" group-title="03 - Desporto",DAZN 4 [alternativa 3]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-4-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 4 [HD; alternativa 2]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F35239756417ae61956b571
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DAZN%204" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 4 [alternativa 3]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F36541606320e0b5747f04e
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORTS%204%20HD%20(BACKUP)" group-title="03 - Desporto",DAZN 4 [HD; alternativa 4; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORTS%204%20HD%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 4 [HD; alternativa 4; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3195314998672077c5c950
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-5-pt.png" group-title="03 - Desporto",DAZN 5 [FHD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-5-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 5 [FHD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F19859372356f23a09d89b7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-5-pt.png" group-title="03 - Desporto",DAZN 5 [HD; alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-5-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 5 [HD; alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F51390701566ef1d64c07c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-5-pt.png" group-title="03 - Desporto",DAZN 5 [HD; alternativa 3]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-5-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 5 [HD; alternativa 3]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1075134364cad87b8f672e
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DAZN%205" group-title="03 - Desporto",DAZN 5 [alternativa 4]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DAZN%205" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 5 [alternativa 4]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3836623176848a0884f3da
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-6-pt.png" group-title="03 - Desporto",DAZN 6 [HD]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F34662135034440faed2387
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-6-pt.png" group-title="03 - Desporto",DAZN 6 [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DAZN%206" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 6
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27356210168e6ecb966170
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/eleven-sports-6-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 6 [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3725483887f74435380df7
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORTS%206%20HD%20(BACKUP)" group-title="03 - Desporto",DAZN 6 [HD; alternativa 3; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ELEVEN%20SPORTS%206%20HD%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",DAZN 6 [HD; alternativa 3; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F178311678567a225e74dff
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" group-title="03 - Desporto",Eurosport 1 [HD]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16311580101fad1a8ee2ef
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" group-title="03 - Desporto",Eurosport 1 [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" group-title="03 - Desporto",Eurosport 1
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F25495184398c97e1fbefd8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" group-title="03 - Desporto",Eurosport 1 [alternativa 3]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" tvg-source-status="unavailable" group-title="03 - Desporto",Eurosport 1 [HD; alternativa 2]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16311580101fad1a8ee2ef
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" tvg-source-status="unavailable" group-title="03 - Desporto",Eurosport 1 [alternativa 3]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F36546124874bb339930031
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-2-fr.png" group-title="03 - Desporto",Eurosport 2
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3495357111684554a016fd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-2-fr.png" group-title="03 - Desporto",Eurosport 2 [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26584383597fb214caeed9
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=EUROSPORT%202%20(BACKUP)" group-title="03 - Desporto",Eurosport 2 [alternativa 3; backup]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-2-fr.png" tvg-source-status="unavailable" group-title="03 - Desporto",Eurosport 2 [alternativa 2]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3495357111684554a016fd
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=EUROSPORT%202%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",Eurosport 2 [alternativa 3; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5210413649af808380459
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/btv-pt.png" group-title="03 - Desporto",Benfica TV [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F419434034c29c7a3c7b07
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=BENFICA%20TV" group-title="03 - Desporto",Benfica TV [alternativa 2]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F153111452837f69b803b96
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=BTV%20(BENFICA)" group-title="03 - Desporto",Benfica TV [alternativa 3]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=BTV%20(BENFICA)" group-title="03 - Desporto",Benfica TV [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2434383426cedb9a7f8182
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=BENFICA%20TV%20(BACKUP)" group-title="03 - Desporto",Benfica TV [alternativa 4; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=BENFICA%20TV" tvg-source-status="unavailable" group-title="03 - Desporto",Benfica TV [alternativa 3]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F153111452837f69b803b96
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=BENFICA%20TV%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",Benfica TV [alternativa 4; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1059923452c630d2b84864
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sporting-tv-hd-pt.png" group-title="03 - Desporto",Sporting TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sporting-tv-hd-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",Sporting TV
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F17190817580bb536b17325
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sporting-tv-hd-pt.png" group-title="03 - Desporto",Sporting TV [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sporting-tv-hd-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",Sporting TV [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F676691326908891eb462f
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORTING%20TV%20(BACKUP)" group-title="03 - Desporto",Sporting TV [alternativa 3; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SPORTING%20TV%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",Sporting TV [alternativa 3; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F324754431106bc8943cf0e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-1-pl.png" group-title="03 - Desporto",Canal 11 [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-1-pl.png" tvg-source-status="unavailable" group-title="03 - Desporto",Canal 11 [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F18359357199e074371cdbd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-1-pl.png" group-title="03 - Desporto",Canal 11 [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-1-pl.png" tvg-source-status="unavailable" group-title="03 - Desporto",Canal 11 [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F199161253abd385871b30
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CANAL%2011%20HD%20(BACKUP)" group-title="03 - Desporto",Canal 11 [HD; alternativa 3; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CANAL%2011%20HD%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",Canal 11 [HD; alternativa 3; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29721594504acc680e4676
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/a-bola-tv-pt.png" group-title="03 - Desporto",A Bola TV
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F186535245741ba973dc10b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/a-bola-tv-pt.png" group-title="03 - Desporto",A Bola TV [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F476765689e8fc3379448d
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CA%C3%87AVISION" group-title="03 - Desporto",Cacavision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/a-bola-tv-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",A Bola TV [alternativa 2]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F186535245741ba973dc10b
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CA%C3%87AVISION" tvg-source-status="unavailable" group-title="03 - Desporto",Cacavision
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F36824777946514747ec085
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/caccia-pesca-it.png" group-title="03 - Desporto",Caccia E Pesca
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/caccia-pesca-it.png" tvg-source-status="unavailable" group-title="03 - Desporto",Caccia E Pesca
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1577389543c8c8b87f129e
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CAMPO%20PEQUENO" group-title="03 - Desporto",Campo Pequeno
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CAMPO%20PEQUENO" tvg-source-status="unavailable" group-title="03 - Desporto",Campo Pequeno
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F231845708e53d794de05b
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CAMPO%20PEQUENO%20TV" group-title="03 - Desporto",Campo Pequeno [alternativa 2]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F10003427559aab5ef6a4f5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/caza-y-pesca-es.png" group-title="03 - Desporto",Caza Y Pesca
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/caza-y-pesca-es.png" tvg-source-status="unavailable" group-title="03 - Desporto",Caza Y Pesca
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F39888517753ee87fb99de4
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=COMBATE" group-title="03 - Desporto",Combate
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=COMBATE" tvg-source-status="unavailable" group-title="03 - Desporto",Combate
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F37792491890935fbfaed47
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FIGHT%20NETWORK" group-title="03 - Desporto",Fight Network
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FIGHT%20NETWORK" tvg-source-status="unavailable" group-title="03 - Desporto",Fight Network
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F98251882763ac2c3cad9f
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FUEL%20TV" group-title="03 - Desporto",Fuel TV
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FUEL%20TV" tvg-source-status="unavailable" group-title="03 - Desporto",Fuel TV
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F235154858874b373b5a141
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FUEL%20TV" group-title="03 - Desporto",Fuel TV [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FUEL%20TV" tvg-source-status="unavailable" group-title="03 - Desporto",Fuel TV [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F71983983b6b873948166
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FUEL%20TV%20(BACKUP)" group-title="03 - Desporto",Fuel TV [alternativa 3; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FUEL%20TV%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",Fuel TV [alternativa 3; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3953435677c84746d1470f
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KOMBAT%20SPORT" group-title="03 - Desporto",Kombat Sport
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2141709191e37e48fc700d
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KOMBAT%20SPORT" group-title="03 - Desporto",Kombat Sport [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KOMBAT%20SPORT" tvg-source-status="unavailable" group-title="03 - Desporto",Kombat Sport
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2018844923006d33075e6e
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KOMBAT%20SPORT%20(BACKUP)" group-title="03 - Desporto",Kombat Sport [alternativa 3; backup]
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F704666836ccdd94704f0
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MOTO%20GP%20HD" group-title="03 - Desporto",Moto Gp [HD]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MOTO%20GP%20HD" tvg-source-status="unavailable" group-title="03 - Desporto",Moto Gp [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F80762089dbc192a58b99
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/motorvision-plus-fr.png" group-title="03 - Desporto",Motorvision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/motorvision-plus-fr.png" tvg-source-status="unavailable" group-title="03 - Desporto",Motorvision
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F313881517425559308db87
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/motorvision-plus-fr.png" group-title="03 - Desporto",Motorvision [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/motorvision-plus-fr.png" tvg-source-status="unavailable" group-title="03 - Desporto",Motorvision [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F174225106c9fcdffa2143
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MOTORVISION%20(BACKUP)" group-title="03 - Desporto",Motorvision [alternativa 3; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MOTORVISION%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",Motorvision [alternativa 3; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4623959472d66be6b0e03
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NAUTICAL%20CHANNEL" group-title="03 - Desporto",Nautical Channel
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2648942672c8ddb95d7d12
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/nba-tv-pt.png" group-title="03 - Desporto",NBA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/nba-tv-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",NBA TV
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F21218462198127b9768c37
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/pfc-pt.png" group-title="03 - Desporto",PFC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/pfc-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",PFC
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F24479454750b28e79d3d28
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/pfc-pt.png" group-title="03 - Desporto",PFC [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/pfc-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",PFC [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5533338767b17fda54777
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=PFC%20(BACKUP)" group-title="03 - Desporto",PFC [alternativa 3; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=PFC%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",PFC [alternativa 3; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3753231864e1d268b250ce
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/toros-tv-pt.png" group-title="03 - Desporto",Toros
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/toros-tv-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",Toros
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16196976980919a19eb333
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/toros-tv-pt.png" group-title="03 - Desporto",Toros [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/toros-tv-pt.png" tvg-source-status="unavailable" group-title="03 - Desporto",Toros [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1243809524ae367b5e76b4
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TOROS%20TV%20(BACKUP)" group-title="03 - Desporto",Toros [alternativa 3; backup]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TOROS%20TV%20(BACKUP)" tvg-source-status="unavailable" group-title="03 - Desporto",Toros [alternativa 3; backup]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F784576657f26a88c3fce5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-sports-us.png" group-title="03 - Desporto",W-sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-sports-us.png" tvg-source-status="unavailable" group-title="03 - Desporto",W-sport
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F286924362279aa9b13e1a9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/amc-pt.png" group-title="04 - Filmes e séries",AMC [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/amc-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",AMC [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F332290414873aceb4cbae0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/amc-pt.png" group-title="04 - Filmes e séries",AMC [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/amc-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",AMC [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2341819341f129f357dbdb
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-break-es.png" group-title="04 - Filmes e séries",AMC Break
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-break-es.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",AMC Break
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1676049953943aabe65b98
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-crime-es.png" group-title="04 - Filmes e séries",AMC Crime
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-crime-es.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",AMC Crime
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F20771957888051379ac4aa
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-pt.png" group-title="04 - Filmes e séries",AXN [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",AXN [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3143462075dfa9e885f3b2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-pt.png" group-title="04 - Filmes e séries",AXN [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",AXN [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F538838100d0590731cf6d
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=AXN%20BLACK" group-title="04 - Filmes e séries",AXN Black
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3967750091e83f077e6272
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-movies-pt.png" group-title="04 - Filmes e séries",AXN Movies [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-movies-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",AXN Movies [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2370723370bb823495ff98
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-movies-pt.png" group-title="04 - Filmes e séries",AXN Movies [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-movies-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",AXN Movies [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F47475930279ac9dcfd9c1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-white-pt.png" group-title="04 - Filmes e séries",AXN White [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-white-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",AXN White [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F328698532772b83e8ca83a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-white-pt.png" group-title="04 - Filmes e séries",AXN White [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/axn-white-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",AXN White [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F47702122617bfc7ea0a24
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/cine-mundo-pt.png" group-title="04 - Filmes e séries",Cinemundo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/cine-mundo-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Cinemundo
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F25960094757e6d362c5d5f
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CINEMUNDO" group-title="04 - Filmes e séries",Cinemundo [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CINEMUNDO" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Cinemundo [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F425440450378b6ca4cf7d3
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DISNEY%2B%20PIXAR" group-title="04 - Filmes e séries",Disney+ Pixar
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DISNEY%2B%20PIXAR" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Disney+ Pixar
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1616464273e04bb68a8a1c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/dizi-hr.png" group-title="04 - Filmes e séries",Dizi Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/dizi-hr.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Dizi Channel
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F331839172552bc64d9a58d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/fox-hr.png" group-title="04 - Filmes e séries",Fox [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/fox-hr.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Fox [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F737435862bedf0cf54964
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/fox-comedy-pt.png" group-title="04 - Filmes e séries",Fox Comedy [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/fox-comedy-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Fox Comedy [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F9927413899bfcad187b88
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/fox-crime-pt.png" group-title="04 - Filmes e séries",Fox Crime [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/fox-crime-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Fox Crime [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1009109875825780d41942
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/fox-life-pt.png" group-title="04 - Filmes e séries",Fox Life [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/fox-life-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Fox Life [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2739768128827479a32fe6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/fox-movies-pt.png" group-title="04 - Filmes e séries",Fox Movies [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/fox-movies-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Fox Movies [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3499798327eb1f80e520b3
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=HBO%202" group-title="04 - Filmes e séries",HBO 2
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=HBO%202" tvg-source-status="unavailable" group-title="04 - Filmes e séries",HBO 2
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3934395114e54c2b884854
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=HBO%20PORTUGAL" group-title="04 - Filmes e séries",HBO Portugal
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=HBO%20PORTUGAL" tvg-source-status="unavailable" group-title="04 - Filmes e séries",HBO Portugal
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3701688c92f60856b71
 #EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=HOLLYWOOD" group-title="04 - Filmes e séries",Hollywood
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F7080840411e9f3bd3b681
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NOS%20STUDIOS" group-title="04 - Filmes e séries",NOS Studios
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NOS%20STUDIOS" tvg-source-status="unavailable" group-title="04 - Filmes e séries",NOS Studios
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F39657016396db00c2d9e81
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NOS%20STUDIOS" group-title="04 - Filmes e séries",NOS Studios [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NOS%20STUDIOS" tvg-source-status="unavailable" group-title="04 - Filmes e séries",NOS Studios [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27261441035e4b72b92904
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/star-channel-pt.png" group-title="04 - Filmes e séries",Star Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/star-channel-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Star Channel
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F473732861a37cc8a8aa9a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/star-comedy-pt.png" group-title="04 - Filmes e séries",Star Comedy
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F12827816780db2bd5f3f4f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/star-crime-pt.png" group-title="04 - Filmes e séries",Star Crime
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/star-crime-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Star Crime
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2422531998791bd1474314
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/star-life-pt.png" group-title="04 - Filmes e séries",Star Life
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/star-life-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Star Life
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4075632687044396f1dc6a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/star-movies-pt.png" group-title="04 - Filmes e séries",Star Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/star-movies-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Star Movies
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8913585440f7b064a2665
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/syfy-ar.png" group-title="04 - Filmes e séries",SYFY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/syfy-ar.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",SYFY
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F386545214879c36205f79e
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SYFY%20PORTUGAL" group-title="04 - Filmes e séries",SYFY [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SYFY%20PORTUGAL" tvg-source-status="unavailable" group-title="04 - Filmes e séries",SYFY [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1633515070747da24b8d0a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-action-pt.png" group-title="04 - Filmes e séries",Tvcine Action [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-action-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Tvcine Action [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F7936318033db25a8648aa
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-action-pt.png" group-title="04 - Filmes e séries",Tvcine Action [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-action-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Tvcine Action [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3790970324f06b4796f2fe
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-edition-pt.png" group-title="04 - Filmes e séries",Tvcine Edition [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-edition-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Tvcine Edition [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2599146036b6364834e9f6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-edition-pt.png" group-title="04 - Filmes e séries",Tvcine Edition [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-edition-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Tvcine Edition [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1761868334d8c26523c126
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-emotion-pt.png" group-title="04 - Filmes e séries",Tvcine Emotion [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-emotion-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Tvcine Emotion [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F406450924438bf8ed91739
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-emotion-pt.png" group-title="04 - Filmes e séries",Tvcine Emotion [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-emotion-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Tvcine Emotion [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F385958923062108a82180c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-top-pt.png" group-title="04 - Filmes e séries",Tvcine Top [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-top-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Tvcine Top [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F40561975950bd1a2ae20e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-top-pt.png" group-title="04 - Filmes e séries",Tvcine Top [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-top-pt.png" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Tvcine Top [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11677026147f6051732333
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVCINE%2B" group-title="04 - Filmes e séries",Tvcine+
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVCINE%2B" tvg-source-status="unavailable" group-title="04 - Filmes e séries",Tvcine+
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F811339888f3641e12cbf3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/baby-tv-ar.png" group-title="05 - Infantil",Baby TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/baby-tv-ar.png" tvg-source-status="unavailable" group-title="05 - Infantil",Baby TV
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F111671916207b28b428915
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/baby-tv-ar.png" group-title="05 - Infantil",Baby TV [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/baby-tv-ar.png" tvg-source-status="unavailable" group-title="05 - Infantil",Baby TV [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3404489721c363c3c29596
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/biggs-pt.png" group-title="05 - Infantil",Biggs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/biggs-pt.png" tvg-source-status="unavailable" group-title="05 - Infantil",Biggs
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2693440346ecd2a273bc8f
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=PANDA%20BIGGS" group-title="05 - Infantil",Biggs [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=PANDA%20BIGGS" tvg-source-status="unavailable" group-title="05 - Infantil",Biggs [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2958694111abda80bf5ed0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/canal-panda-pt.png" group-title="05 - Infantil",Canal Panda
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/canal-panda-pt.png" tvg-source-status="unavailable" group-title="05 - Infantil",Canal Panda
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4002241315e5ee10f4b753
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/canal-panda-pt.png" group-title="05 - Infantil",Canal Panda [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/canal-panda-pt.png" tvg-source-status="unavailable" group-title="05 - Infantil",Canal Panda [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26958390437906a5f4ba97
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png" group-title="05 - Infantil",Cartoon Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png" tvg-source-status="unavailable" group-title="05 - Infantil",Cartoon Network
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2359297640ef36451eb08a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png" group-title="05 - Infantil",Cartoon Network [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png" tvg-source-status="unavailable" group-title="05 - Infantil",Cartoon Network [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2672740913728a31b548ec
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cartoonito-br.png" group-title="05 - Infantil",Cartoonito
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cartoonito-br.png" tvg-source-status="unavailable" group-title="05 - Infantil",Cartoonito
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F13322793075995b979f6ce
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png" group-title="05 - Infantil",Disney Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png" tvg-source-status="unavailable" group-title="05 - Infantil",Disney Channel
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1668808212073ea3ac1de7
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DISNEY%20JUNIOR" group-title="05 - Infantil",Disney Junior
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=DISNEY%20JUNIOR" tvg-source-status="unavailable" group-title="05 - Infantil",Disney Junior
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F7711415421c705f6ba5dd
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FIREMAN%20SAM" group-title="05 - Infantil",Fireman Sam
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png" tvg-source-status="unavailable" group-title="05 - Infantil",Disney+
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2551829420791b5b928702
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FIREMAN%20SAM" tvg-source-status="unavailable" group-title="05 - Infantil",Fireman Sam
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F25684012369ed1e8844c34
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=JIM%20JAM" group-title="05 - Infantil",JimJam
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=JIM%20JAM" tvg-source-status="unavailable" group-title="05 - Infantil",JimJam
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F39730572654e7aa88778b3
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=JIMJAM" group-title="05 - Infantil",JimJam [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=JIMJAM" tvg-source-status="unavailable" group-title="05 - Infantil",JimJam [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3380920371ff40bb686181
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KANUCA%20TV" group-title="05 - Infantil",Kanuca TV
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KANUCA%20TV" tvg-source-status="unavailable" group-title="05 - Infantil",Kanuca TV
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1894635407715cfe3d36ca
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KURIAKOS%20KIDS" group-title="05 - Infantil",Kuriakos Kids
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KURIAKOS%20KIDS" tvg-source-status="unavailable" group-title="05 - Infantil",Kuriakos Kids
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4169387839c41e776cba20
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nick-jr-ar.png" group-title="05 - Infantil",Nick Jr.
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F32859584599ce78df64a7d
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NICK%20JUNIOR" group-title="05 - Infantil",Nick Jr. [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NICK%20JUNIOR" tvg-source-status="unavailable" group-title="05 - Infantil",Nick Jr. [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11659668124a40dee2e709
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nickelodeon-ar.png" group-title="05 - Infantil",Nickelodeon
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nickelodeon-ar.png" tvg-source-status="unavailable" group-title="05 - Infantil",Nickelodeon
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F398241518529a84217dd1f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nickelodeon-ar.png" group-title="05 - Infantil",Nickelodeon [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nickelodeon-ar.png" tvg-source-status="unavailable" group-title="05 - Infantil",Nickelodeon [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27428585456434d2693931
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=PANDA%20KIDS" group-title="05 - Infantil",Panda Kids
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=PANDA%20KIDS" tvg-source-status="unavailable" group-title="05 - Infantil",Panda Kids
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F21712439520d828fed18d2
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=PATRULHA%20PATA" group-title="05 - Infantil",Patrulha Pata
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=PATRULHA%20PATA" tvg-source-status="unavailable" group-title="05 - Infantil",Patrulha Pata
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F165571168486077e97f67f
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SANTIAGO%20DOS%20MARES" group-title="05 - Infantil",Santiago Dos Mares
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SANTIAGO%20DOS%20MARES" tvg-source-status="unavailable" group-title="05 - Infantil",Santiago Dos Mares
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4016740092f8e340296af7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-k-pt.png" group-title="05 - Infantil",SIC K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-k-pt.png" tvg-source-status="unavailable" group-title="05 - Infantil",SIC K
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F21334938345a29bf0a33ab
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-k-pt.png" group-title="05 - Infantil",SIC K [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-k-pt.png" tvg-source-status="unavailable" group-title="05 - Infantil",SIC K [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2854171354d2861314431b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/blaze-it.png" group-title="06 - Documentários",Blaze
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/blaze-it.png" tvg-source-status="unavailable" group-title="06 - Documentários",Blaze
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3679644515d54e70649645
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/cbs-reality-pt.png" group-title="06 - Documentários",Cbs Reality
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/cbs-reality-pt.png" tvg-source-status="unavailable" group-title="06 - Documentários",Cbs Reality
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29381825197d677bb12d4f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/cbs-reality-pt.png" group-title="06 - Documentários",Cbs Reality [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/cbs-reality-pt.png" tvg-source-status="unavailable" group-title="06 - Documentários",Cbs Reality [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3775102231a007e414d4e5
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CRIME%20INVISTIGATION" group-title="06 - Documentários",Crime + Investigation
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CRIME%20INVISTIGATION" tvg-source-status="unavailable" group-title="06 - Documentários",Crime + Investigation
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11378614892a679bcbf28d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/crime-and-investigation-au.png" group-title="06 - Documentários",Crime + Investigation [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/crime-and-investigation-au.png" tvg-source-status="unavailable" group-title="06 - Documentários",Crime + Investigation [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3279514677021b74e7f37
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/crime-district-fr.png" group-title="06 - Documentários",Crime District
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/crime-district-fr.png" tvg-source-status="unavailable" group-title="06 - Documentários",Crime District
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F358847146604310b1ced84
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-channel-ar.png" group-title="06 - Documentários",Discovery Channel [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-channel-ar.png" tvg-source-status="unavailable" group-title="06 - Documentários",Discovery Channel [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F78318791484a7ab86cea1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-world-hd-ar.png" group-title="06 - Documentários",Discovery World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-world-hd-ar.png" tvg-source-status="unavailable" group-title="06 - Documentários",Discovery World
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F57570103360bc951258fe
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/historia-ca.png" group-title="06 - Documentários",Historia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/historia-ca.png" tvg-source-status="unavailable" group-title="06 - Documentários",Historia
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1471702249632c76c543a9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/historia-ca.png" group-title="06 - Documentários",Historia [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/historia-ca.png" tvg-source-status="unavailable" group-title="06 - Documentários",Historia [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F52553831439c933d566ef
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/investigation-discovery-ca.png" group-title="06 - Documentários",Investigation Discovery
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/investigation-discovery-ca.png" tvg-source-status="unavailable" group-title="06 - Documentários",Investigation Discovery
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1181792777fdf3f172d007
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NAT%20GEO" group-title="06 - Documentários",National Geographic
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NAT%20GEO" tvg-source-status="unavailable" group-title="06 - Documentários",National Geographic
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1196955352dcf13e1e10c5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/national-geographic-ar.png" group-title="06 - Documentários",National Geographic [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/national-geographic-ar.png" tvg-source-status="unavailable" group-title="06 - Documentários",National Geographic [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F503347396572e08f52c01
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nat-geo-wild-de.png" group-title="06 - Documentários",National Geographic Wild [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nat-geo-wild-de.png" tvg-source-status="unavailable" group-title="06 - Documentários",National Geographic Wild [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F269328975361837c5e0705
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nat-geo-wild-de.png" group-title="06 - Documentários",National Geographic Wild [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nat-geo-wild-de.png" tvg-source-status="unavailable" group-title="06 - Documentários",National Geographic Wild [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F278568941d0da5f3a5da0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/odisseia-pt.png" group-title="06 - Documentários",Odisseia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/odisseia-pt.png" tvg-source-status="unavailable" group-title="06 - Documentários",Odisseia
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F892615341748ec31a1ac1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/odisseia-pt.png" group-title="06 - Documentários",Odisseia [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/odisseia-pt.png" tvg-source-status="unavailable" group-title="06 - Documentários",Odisseia [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F21117855506273662f1163
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=AFRO%20MUSIC" group-title="07 - Música",Afro Music
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=AFRO%20MUSIC" tvg-source-status="unavailable" group-title="07 - Música",Afro Music
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1069493045e9eb6e93e3b3
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=AFRO%20MUSIC%20CHANNEL" group-title="07 - Música",Afro Music [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=AFRO%20MUSIC%20CHANNEL" tvg-source-status="unavailable" group-title="07 - Música",Afro Music [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1972183649a5ef6fe03f42
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ALMA%20LUSA" group-title="07 - Música",Alma Lusa
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=ALMA%20LUSA" tvg-source-status="unavailable" group-title="07 - Música",Alma Lusa
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3972324290e61b379317ce
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=BOM%20SOM%20CHANNEL" group-title="07 - Música",Bom Som Channel
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=BOM%20SOM%20CHANNEL" tvg-source-status="unavailable" group-title="07 - Música",Bom Som Channel
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2249546173445fd342e31f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/mcm-pop-fr.png" group-title="07 - Música",Mcm Pop
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/mcm-pop-fr.png" tvg-source-status="unavailable" group-title="07 - Música",Mcm Pop
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F30050545840104134c119e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/mcm-pop-fr.png" group-title="07 - Música",Mcm Pop [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/mcm-pop-fr.png" tvg-source-status="unavailable" group-title="07 - Música",Mcm Pop [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F998167995dd2effac82cc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/mcm-top-fr.png" group-title="07 - Música",Mcm Top
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/mcm-top-fr.png" tvg-source-status="unavailable" group-title="07 - Música",Mcm Top
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3476156840c41d4a351d0a
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MEZZO" group-title="07 - Música",Mezzo
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MEZZO" tvg-source-status="unavailable" group-title="07 - Música",Mezzo
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F885911308e84f0918467a
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MEZZO%20LIVE" group-title="07 - Música",Mezzo Live
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MEZZO%20LIVE" tvg-source-status="unavailable" group-title="07 - Música",Mezzo Live
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3602344519640e3a7e1fb2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/mtv-00s-ar.png" group-title="07 - Música",MTV 00S
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/mtv-00s-ar.png" tvg-source-status="unavailable" group-title="07 - Música",MTV 00S
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3875216039f1b6da7fcf49
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MTV%20PORTUGAL" group-title="07 - Música",MTV Portugal
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MTV%20PORTUGAL" tvg-source-status="unavailable" group-title="07 - Música",MTV Portugal
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F35557164194cdcc75fb42f
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MTV%20PORTUGAL" group-title="07 - Música",MTV Portugal [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MTV%20PORTUGAL" tvg-source-status="unavailable" group-title="07 - Música",MTV Portugal [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F35586821756dbad9fb0617
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=STINGRAY%20CMUSIC" group-title="07 - Música",Stingray Cmusic
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=STINGRAY%20CMUSIC" tvg-source-status="unavailable" group-title="07 - Música",Stingray Cmusic
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F32661409240a45c61b9309
 #EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=STINGRAY%20ICONCERTS" group-title="07 - Música",Stingray Iconcerts
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16729529834b4e60743f87
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=STINGRAY%20LOUD" group-title="07 - Música",Stingray Loud
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=STINGRAY%20LOUD" tvg-source-status="unavailable" group-title="07 - Música",Stingray Loud
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16052425729d9f04de9dee
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/stingray-retro-ca.png" group-title="07 - Música",Stingray Retro
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/stingray-retro-ca.png" tvg-source-status="unavailable" group-title="07 - Música",Stingray Retro
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F216763212240408f426082
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trace-urban-fr.png" group-title="07 - Música",Trace Urban [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trace-urban-fr.png" tvg-source-status="unavailable" group-title="07 - Música",Trace Urban [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3694338679a57f5a8fb54c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/vh1-uk.png" group-title="07 - Música",VH1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/vh1-uk.png" tvg-source-status="unavailable" group-title="07 - Música",VH1
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F126040701457784edc4553
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/vh1-uk.png" group-title="07 - Música",VH1 [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/vh1-uk.png" tvg-source-status="unavailable" group-title="07 - Música",VH1 [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F419770049748e1f519ea7f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/24-kitchen-pt.png" group-title="08 - Entretenimento e lifestyle",24 Kitchen [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/24-kitchen-pt.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",24 Kitchen [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5749782816432d260b9f8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/24-kitchen-pt.png" group-title="08 - Entretenimento e lifestyle",24 Kitchen [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/24-kitchen-pt.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",24 Kitchen [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F217677844105372e6f7b94
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=A%26E" group-title="08 - Entretenimento e lifestyle",A&e
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=A%26E" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",A&e
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1726372340804c94793126
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CANAL%20180" group-title="08 - Entretenimento e lifestyle",Canal 180
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=AR%20TV%20CANAL%20PARLAMENTO" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Ar TV Canal Parlamento
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F134859843227bbcd936c21
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CANAL%20180" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Canal 180
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1874759730c1b2b900ded6
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CANAL%20NOS" group-title="08 - Entretenimento e lifestyle",Canal NOS
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CANAL%20NOS" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Canal NOS
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3173711892ac6e9567d430
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/canal-q-pt.png" group-title="08 - Entretenimento e lifestyle",Canal Q
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/canal-q-pt.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Canal Q
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27670925185f9621be33b0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/canal-q-pt.png" group-title="08 - Entretenimento e lifestyle",Canal Q [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/canal-q-pt.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Canal Q [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F7474915574b41e4e4484c
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CASA%20%26%20PESCA" group-title="08 - Entretenimento e lifestyle",Casa & Pesca
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CASA%20%26%20PESCA" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Casa & Pesca
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F700421686a2540175cb7b
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CASA%20E%20COZINHA" group-title="08 - Entretenimento e lifestyle",Casa E Cozinha
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=CASA%20E%20COZINHA" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Casa E Cozinha
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3354497993e05327d67195
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/dog-tv-us.png" group-title="08 - Entretenimento e lifestyle",Dog TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/dog-tv-us.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Dog TV
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1585099730502eeb0b85ab
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/e-tv-za.png" group-title="08 - Entretenimento e lifestyle",E!
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/e-tv-za.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",E!
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2635838576f894565a8fd2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/e-entertainment-au.png" group-title="08 - Entretenimento e lifestyle",E! [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/e-entertainment-au.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",E! [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2910919734123033b51494
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FASHIONTV" group-title="08 - Entretenimento e lifestyle",Fashiontv
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FASHIONTV" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Fashiontv
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3688799089b348adf8648b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/food-network-ar.png" group-title="08 - Entretenimento e lifestyle",Food Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/food-network-ar.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Food Network
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1960865357bce2f9940e1e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hgtv-ar.png" group-title="08 - Entretenimento e lifestyle",HGTV
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=GLOBO%20BRAZIL" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Globo Brazil
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4138844993f9f6ab3175df
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hgtv-ar.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",HGTV
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F310002268589f0484d477b
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=OPTO" group-title="08 - Entretenimento e lifestyle",Opto
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=MYZEN" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Myzen
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3493417622f835e0d0a432
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=NETFLIX" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Netflix
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F42815161733cb4efd47737
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=OPTO" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Opto
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2106247479c559e08ff599
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="08 - Entretenimento e lifestyle",Record TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Record TV
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F12117782260a191a43e8a0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="08 - Entretenimento e lifestyle",Record TV [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Record TV [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22917764163ef8589ac5db
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SAUDE%2B" group-title="08 - Entretenimento e lifestyle",Saude+
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SAUDE%2B" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Saude+
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F36808522734e8673ee22df
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-caras-pt.png" group-title="08 - Entretenimento e lifestyle",SIC Caras
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-caras-pt.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",SIC Caras
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F349548203924edaa45dbfa
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-caras-pt.png" group-title="08 - Entretenimento e lifestyle",SIC Caras [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-caras-pt.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",SIC Caras [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27365893830064965c878f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-mulher-pt.png" group-title="08 - Entretenimento e lifestyle",SIC Mulher
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-mulher-pt.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",SIC Mulher
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F35722502329cdc2317c8dd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-mulher-pt.png" group-title="08 - Entretenimento e lifestyle",SIC Mulher [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-mulher-pt.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",SIC Mulher [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5900866544de3cdf55f90
 #EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=SIC%20NOVELAS" group-title="08 - Entretenimento e lifestyle",SIC Novelas
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F191136795907dde3d75d1a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-radical-pt.png" group-title="08 - Entretenimento e lifestyle",SIC Radical
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-radical-pt.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",SIC Radical
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F114997012299821ebfef73
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-radical-pt.png" group-title="08 - Entretenimento e lifestyle",SIC Radical [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-radical-pt.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",SIC Radical [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1788642980ad9a247245d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tlc-ar.png" group-title="08 - Entretenimento e lifestyle",TLC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tlc-ar.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",TLC
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3292309622df6ab2322cc6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tlc-ar.png" group-title="08 - Entretenimento e lifestyle",TLC [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tlc-ar.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",TLC [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1966027521cfea3ee092b5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/travel-au.png" group-title="08 - Entretenimento e lifestyle",Travel Channel [HD]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/travel-au.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Travel Channel [HD]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2247442701b34d1b42dae
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/travel-au.png" group-title="08 - Entretenimento e lifestyle",Travel Channel [alternativa 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/travel-au.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Travel Channel [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F42820236599047952b5dee
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/travelxp-hu.png" group-title="08 - Entretenimento e lifestyle",Travelxp
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/travelxp-hu.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Travelxp
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F276929612498a9a231b627
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="08 - Entretenimento e lifestyle",TV Globo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",TV Globo
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3068526841d78e5d3c16ff
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TV%20GLOBO%20NOW" group-title="08 - Entretenimento e lifestyle",TV Globo Now
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TV%20GLOBO%20NOW" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",TV Globo Now
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F20994889228f6a91cba570
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20FIC" group-title="08 - Entretenimento e lifestyle",TVI Ficção
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20FIC" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",TVI Ficção
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26595946992b1d68be116
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20FIC%C3%87%C3%83O" group-title="08 - Entretenimento e lifestyle",TVI Ficção [alternativa 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20FIC%C3%87%C3%83O" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",TVI Ficção [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F956832485d2ff166a0119
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvi-reality-pt.png" group-title="08 - Entretenimento e lifestyle",Tvi Reality
-https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2164586665059c27b25b07
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvi-reality-pt.png" group-title="08 - Entretenimento e lifestyle",Tvi Reality [alternativa 2]
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F34754147299c2a1920fed4
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20REALITY%20CAMERA%201" group-title="08 - Entretenimento e lifestyle",Tvi Reality Camera 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvi-reality-pt.png" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Tvi Reality [alternativa 2]
+https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2164586665059c27b25b07
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20REALITY%20CAMERA%201" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Tvi Reality Camera 1
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1966368132f51ea29d1db8
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20REALITY%20CAMERA%202" group-title="08 - Entretenimento e lifestyle",Tvi Reality Camera 2
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20REALITY%20CAMERA%202" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Tvi Reality Camera 2
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F84856814875963cd1182c
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20REALITY%20CAMERA%203" group-title="08 - Entretenimento e lifestyle",Tvi Reality Camera 3
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20REALITY%20CAMERA%203" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Tvi Reality Camera 3
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26766307608dfe9f52f33
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20REALITY%20CAMERA%204" group-title="08 - Entretenimento e lifestyle",Tvi Reality Camera 4
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20REALITY%20CAMERA%204" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Tvi Reality Camera 4
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3184847604d0246eb2464c
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20REALITY%20MOSAICO" group-title="08 - Entretenimento e lifestyle",Tvi Reality Mosaico
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TVI%20REALITY%20MOSAICO" tvg-source-status="unavailable" group-title="08 - Entretenimento e lifestyle",Tvi Reality Mosaico
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F19099316900d6bd25a97ae
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cancao-nova-tv-br.png" group-title="09 - Religião",Cancao Nova
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F171172057153c3db88f5ce
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FATIMA%20TV" group-title="09 - Religião",Fatima TV
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=FATIMA%20TV" tvg-source-status="unavailable" group-title="09 - Religião",Fatima TV
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F239550906605f2db26d23b
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KURIAKOS%20TV" group-title="09 - Religião",Kuriakos TV
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=KURIAKOS%20TV" tvg-source-status="unavailable" group-title="09 - Religião",Kuriakos TV
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2640469163e5649419dbaf
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TV%20MANA%201" group-title="09 - Religião",TV Mana 1
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TV%20MANA%201" tvg-source-status="unavailable" group-title="09 - Religião",TV Mana 1
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3430368704f7c6e5cbb75a
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TV%20MANA%202" group-title="09 - Religião",TV Mana 2
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=TV%20MANA%202" tvg-source-status="unavailable" group-title="09 - Religião",TV Mana 2
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F23461394085907696b0a67
-#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=UNIFE%20TV" group-title="09 - Religião",Unife TV
+#EXTINF:-1 tvg-logo="https://placehold.co/900x270/12052b/00FFD1.png?font=montserrat&text=UNIFE%20TV" tvg-source-status="unavailable" group-title="09 - Religião",Unife TV
 https://tvvoo.hayd.uk/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F24469876007438fe206b2f
