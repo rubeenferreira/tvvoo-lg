@@ -23,6 +23,21 @@ def clean(value):
     return str(value or '').replace('\r', ' ').replace('\n', ' ').replace('"', "'")
 
 
+def previous_sources(target):
+    """Index persistent source URLs by the provider's channel identity."""
+    sources = defaultdict(list)
+    if not target.exists():
+        return sources
+    for line in target.read_text(encoding='utf-8-sig').splitlines():
+        parsed = urllib.parse.urlsplit(line)
+        if parsed.scheme != 'https' or parsed.netloc != 'tvvoo.hayd.uk' or parsed.path != '/live/manifest.m3u8':
+            continue
+        play = urllib.parse.parse_qs(parsed.query).get('url', [''])[0]
+        if play and line not in sources[play]:
+            sources[play].append(line)
+    return sources
+
+
 def media_available(url):
     """Confirma manifesto e inicio de um segmento; nao testa descodificacao."""
     headers = {'User-Agent': 'Mozilla/5.0'}
@@ -153,6 +168,7 @@ def main():
     parser.add_argument('--servidor', default='https://tvvoo.hayd.uk')
     parser.add_argument('--saida', default=str(Path(__file__).with_name('tvvoo.m3u')))
     args = parser.parse_args()
+    previous = previous_sources(Path(args.saida))
     base = args.servidor.rstrip('/')
     manifest = get_json(base + '/manifest.json')
     catalogs = {c['id'].removeprefix('vavoo_tv_'): c for c in manifest['catalogs']
@@ -182,6 +198,7 @@ def main():
         if not metas:
             raise ValueError('Catalogo vazio: ' + country)
         print(country + ': ' + str(len(metas)) + ' canais', flush=True)
+        country_failures = []
         with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
             futures = {pool.submit(resolve, meta): meta for meta in metas}
             results = {}
@@ -190,17 +207,30 @@ def main():
                 try:
                     results[meta['id']] = future.result()
                 except Exception as exc:
-                    failures.append(country + ': ' + meta['name'] + ': ' + str(exc))
+                    # Avoid signed URLs or tokens in public Actions diagnostics.
+                    message = country + ': ' + clean(meta['name']) + ': ' + type(exc).__name__
+                    country_failures.append(message)
+                    play = urllib.parse.unquote(meta['id'].partition('|')[2])
+                    saved = previous.get(play, [])
+                    results[meta['id']] = [(url, False) for url in saved]
+                    failures.append(message + ('; fonte anterior conservada' if saved else '; sem fonte anterior'))
             for meta in metas:
                 for index, (url, available) in enumerate(results.get(meta['id'], []), 1):
                     name = clean(meta['name']) + (f' (alternativa {index})' if index > 1 else '')
                     logo = clean(meta.get('logo') or meta.get('poster'))
                     group = country.upper() if available else country.upper() + ' - Sem resposta no teste'
                     entries.extend([f'#EXTINF:-1 tvg-logo="{logo}" group-title="{clean(group)}",{name}', url])
+        if len(country_failures) > max(1, len(metas) // 10):
+            Path(args.saida).with_suffix('.erros.txt').write_text('\n'.join(failures), encoding='utf-8')
+            raise RuntimeError(f'Falha generalizada em {country}: {len(country_failures)}/{len(metas)} canais. Lista anterior preservada.')
     if failures:
         report = Path(args.saida).with_suffix('.erros.txt')
         report.write_text('\n'.join(failures), encoding='utf-8')
-        raise RuntimeError(f'{len(failures)} canais falharam. Lista anterior preservada. Ver {report}')
+        print(f'::warning::{len(failures)} canais com falha pontual; restantes canais atualizados. Ver {report.name}', flush=True)
+        for failure in failures:
+            print(failure, flush=True)
+    else:
+        Path(args.saida).with_suffix('.erros.txt').unlink(missing_ok=True)
     if not entries:
         raise RuntimeError('Sem canais. Lista anterior preservada.')
     entries = organize(entries)
@@ -213,5 +243,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
