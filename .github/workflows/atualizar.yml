@@ -12,7 +12,7 @@ permissions:
   contents: write
 concurrency:
   group: atualizar-playlist
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   atualizar:
     runs-on: ubuntu-latest
@@ -40,5 +40,6 @@ jobs:
           git add tvvoo.m3u atualizado.txt
           if ! git diff --cached --quiet; then
             git commit -m 'Atualizar playlist de Portugal'
+            git pull --rebase origin main
             git push
           fi
