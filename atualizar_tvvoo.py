@@ -173,6 +173,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--paises', default='pt', help='Codigos separados por virgulas, ou all')
     parser.add_argument('--servidor', default='https://tvvoo.hayd.uk')
+    parser.add_argument('--testar-media', action='store_true', help='Testar segmentos durante a geracao (opcional e demorado)')
     parser.add_argument('--saida', default=str(Path(__file__).with_name('tvvoo.m3u')))
     args = parser.parse_args()
     previous = previous_sources(Path(args.saida))
@@ -190,7 +191,7 @@ def main():
                     if '/live/manifest.m3u8?' in s.get('url', '')))
         if not urls:
             raise ValueError('Sem link com renovacao de sessao')
-        checked = [(url, media_available(url)) for url in urls]
+        checked = [(url, media_available(url) if args.testar_media else None) for url in urls]
         # Mantem fontes indisponiveis como alternativas, mas coloca fontes
         # que entregam dados primeiro. Falhas podem ser transitorias.
         checked.sort(key=lambda item: not item[1])
@@ -225,7 +226,7 @@ def main():
                 for index, (url, available) in enumerate(results.get(meta['id'], []), 1):
                     name = clean(meta['name']) + (f' (alternativa {index})' if index > 1 else '')
                     logo = clean(meta.get('logo') or meta.get('poster'))
-                    group = country.upper() if available else country.upper() + ' - Sem resposta no teste'
+                    group = country.upper() if available is not False else country.upper() + ' - Sem resposta no teste'
                     entries.extend([f'#EXTINF:-1 tvg-logo="{logo}" group-title="{clean(group)}",{name}', url])
         if len(country_failures) > max(1, len(metas) // 10):
             Path(args.saida).with_suffix('.erros.txt').write_text('\n'.join(failures), encoding='utf-8')
