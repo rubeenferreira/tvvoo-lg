@@ -28,13 +28,20 @@ def previous_sources(target):
     sources = defaultdict(list)
     if not target.exists():
         return sources
+    name = ''
     for line in target.read_text(encoding='utf-8-sig').splitlines():
+        if line.startswith('#EXTINF:'):
+            name = line.partition(',')[2]
+            continue
         parsed = urllib.parse.urlsplit(line)
         if parsed.scheme != 'https' or parsed.netloc != 'tvvoo.hayd.uk' or parsed.path != '/live/manifest.m3u8':
             continue
         play = urllib.parse.parse_qs(parsed.query).get('url', [''])[0]
         if play and line not in sources[play]:
             sources[play].append(line)
+        family_key = 'family:' + fold(channel_family(name))
+        if name and play and line not in sources[family_key]:
+            sources[family_key].append(line)
     return sources
 
 
@@ -211,7 +218,7 @@ def main():
                     message = country + ': ' + clean(meta['name']) + ': ' + type(exc).__name__
                     country_failures.append(message)
                     play = urllib.parse.unquote(meta['id'].partition('|')[2])
-                    saved = previous.get(play, [])
+                    saved = previous.get(play, []) or previous.get('family:' + fold(channel_family(meta['name'])), [])
                     results[meta['id']] = [(url, False) for url in saved]
                     failures.append(message + ('; fonte anterior conservada' if saved else '; sem fonte anterior'))
             for meta in metas:
